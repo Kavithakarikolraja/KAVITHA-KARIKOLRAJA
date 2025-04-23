@@ -25,7 +25,7 @@ Here are some of the tools and technologies I work with:
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [LinkedIn](https://www.linkedin.com/in/kavitha-k-/)
 - [Portfolio Website](https://your-portfolio.com)
 - [Twitter](https://twitter.com/your-twitter)
 - [Dev.to](https://dev.to/your-profile)
