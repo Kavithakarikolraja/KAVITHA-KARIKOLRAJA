@@ -18,7 +18,9 @@ Here are some of the tools and technologies I work with:
 - **Languages**: python, Java, HTML/CSS.
 - **Frameworks/Libraries**: Scikit Learn,Pandas.
 - **Databases**: MySQL.
-
+- **Tools**: 
+  - **Figma**: Used for UI/UX design and prototyping.
+  - **Tableau**: Used for data visualization and creating interactive dashboards.
 
 
 ## 🔗 Links
