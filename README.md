@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I’m a passionate software developer and a lifelo
 Here are some of the tools and technologies I work with:
 
 - **Languages**: python, Java, HTML/CSS.
-- **Frameworks/Libraries**: Scikit Learn.
+- **Frameworks/Libraries**: Scikit Learn,Pandas.
 - **Databases**: MySQL.
 
 
