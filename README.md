@@ -33,7 +33,7 @@
 
 ## 📂 Featured Projects
 
-- 🎯 [Project 1](https://github.com/yourusername/project1) — *Short description goes here*
+- 🎯 [Project 1](https://github.com/KAVITHA-KARIKOLRAJA/Bike-data-analysis.git) — *Short description goes here*
 - 💡 More coming soon!
 
 ---
