@@ -18,7 +18,7 @@
 ## 🛠️ Tools & Technologies
 
 **Languages**: `Python` `Java` `HTML/CSS`  
-**Frameworks/Libraries**: `Scikit-learn` `Pandas`  
+**Frameworks/Libraries**: `Scikit-learn` `Pandas` 'Tensorflow' 
 **Database**: `MySQL`  
 **Design & Viz**: `Figma` `Tableau`
 
