@@ -2,6 +2,10 @@
 
 🚀 Passionate Software Developer | 🎨 UI/UX Designer | 🤖 ML Enthusiast | 🧠 NLP Learner  
 
+**💻 LeetCode:** [kavitha_karikolraja](https://leetcode.com/u/kavitha_karikolraja/)  
+**🌐 LinkedIn:** [Kavitha K](https://www.linkedin.com/in/kavitha-k-/)  
+**🐙 GitHub:** [Kavithakarikolraja](https://github.com/Kavithakarikolraja)  
+
 ---
 
 ## 🧠 About Me  
