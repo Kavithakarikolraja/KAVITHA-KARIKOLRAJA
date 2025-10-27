@@ -65,6 +65,12 @@
 🔗 [View Project]
 ---
 
+### 6. Bike Data Analysis – Tableau
+🚴‍♂️ Created an interactive Tableau dashboard to visualize bike sales, customer demographics, and commuting patterns.
+-Tools: Tableau, Excel
+ 🔗 [View Dashboard](https://github.com/Kavithakarikolraja/Bike-data-analysis)
+---
+
 ## ✨ Fun Facts
 
 - ❤️ I blend creativity with AI to build innovative, user-friendly solutions.
