@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kavitha Karikolraja
 
-🚀 Passionate software developer | 🎨 UI/UX Designer | 🤖 ML Enthusiast
+🚀 Passionate software developer | 🎨 UI/UX Designer | 🤖 ML Enthusiast |🤖 NLP 
 
 ---
 
