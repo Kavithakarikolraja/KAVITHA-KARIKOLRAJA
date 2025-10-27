@@ -46,7 +46,8 @@
 
 ### 3. MedIntel SelfTrack – AI + UX Web Platform
 💡 AI-based health monitoring system integrating wearable data and chatbot support.  
-- Designed dashboards for **symptom tracking** and **patient interaction**.  
+- Designed dashboards for **symptom tracking** and **patient interaction**.
+  🔗 [View Project](https://github.com/Kavithakarikolraja/MedIntel)
 
 ---
 
@@ -55,13 +56,13 @@
 ### 4. Movie Review Sentiment Analysis – NLP
 🎬 Built an NLP model to classify movie reviews into **positive/negative** sentiments.  
 - Tools: Python, NLTK, Scikit-learn  
-
+ 🔗 [View Project](https://github.com/Kavithakarikolraja/movie_review_analysis)
 ---
 
 ### 5. Stock Price Prediction – ML
 📈 Developed a predictive model to forecast **stock price trends**
 - 💡 More coming soon!
-
+🔗 [View Project]
 ---
 
 ## ✨ Fun Facts
